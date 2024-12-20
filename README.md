@@ -1,10 +1,71 @@
-- 👋 Hi, I’m kaleab
-- 👀 I’m interested in exploit development, network programming, penetration testing, 
-- 🌱 I’m currently learning/practicing openCv(python), android app dev(java), penetration testing , python libs: scapy, pywin32, django ...
-- 💞️ I’m looking to collaborate on php,python REST API's, multiplayer games(server side programming in java) and network security related projects.
-- 📫 email kaleab902@gmail.com
+Hi there! 👋 Welcome to My GitHub Profile
 
-<!---
-kal902/kal902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Full-Stack Developer specializing in Android Development, Web Backends, APIs, and Security-Focused Applications. With extensive experience coding in Java for Android and using frameworks like Laravel, Django, and Flask, I build scalable and secure solutions.
+
+🔧 Technologies & Tools
+
+Languages:
+
+Java (Android)
+
+PHP (Laravel, Slim Framework)
+
+Python (Django, Flask)
+
+JavaScript (Basic)
+
+Frameworks & Libraries:
+
+Android SDK
+
+Laravel
+
+Flask & Django
+
+Scapy (Networking) etc...
+
+Databases:
+
+SQLite
+
+MySQL
+
+Tools & Platforms:
+
+Visual Studio Code
+
+Android Studio
+
+Kali Linux (WSL)
+
+PythonAnywhere
+
+Git & GitHub
+
+APIs & Integrations:
+
+PayPal Payment Integration
+
+REST APIs
+
+Telegram Bot API
+
+🚀 What I'm Currently Working On
+
+Movie & TV Show Tracker Bot: A portfolio project combining web scraping and Telegram bot integration.
+
+Android Development: A business review platform where users find nearby businesses, restaurants, and clinics based on top reviews.
+
+Web Backends: Secure web applications with Laravel and Django.
+
+🌱 What I'm Learning
+
+Flutter Development: Expanding my mobile development skills.
+
+Hugging Face Models: Exploring AI-powered projects.
+
+📜 Featured Projects
+
+Command Router API: A PHP-based web server enabling remote command execution.
+
+LocalGPT Integration: Experimenting with locally hosted language models.
