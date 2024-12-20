@@ -39,7 +39,7 @@ I'm a passionate **Full-Stack Developer** specializing in **Android Development*
 
 ## 🚀 What I'm Currently Working On
 - **Movie & TV Show Tracker Bot:** A portfolio project combining web scraping and Telegram bot integration.
-- **Android Development:** Enhancing app UIs using native Android components.
+- **Android Development:** Yelp Addis, A business review platform where users find nearby businesses, restaurants, and clinics based on top reviews.
 - **Web Backends:** Secure web applications with Laravel and Django.
 
 ---
