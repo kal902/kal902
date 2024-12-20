@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-I'm a passionate **Full-Stack Developer** specializing in **Android Development**, **Web Backends**, **APIs**, and **Security-Focused Applications**. With extensive experience coding in **Java** for Android and using frameworks like **Laravel**, **Django**, and **Flask**, I build scalable and secure solutions.
+I'm a passionate **Full-Stack Developer** specializing in **Android Development** using native java, **Web Backends**, **APIs**, and **Security-Focused Applications**. With extensive experience coding in **Java** for Android and using frameworks like **Laravel**, **Django**, and **Flask**, I build scalable and secure solutions.
 
 ---
 
@@ -39,15 +39,15 @@ I'm a passionate **Full-Stack Developer** specializing in **Android Development*
 
 ## 🚀 What I'm Currently Working On
 - **Movie & TV Show Tracker Bot:** A portfolio project combining web scraping and Telegram bot integration.
-- **Android Development:** Yelp Addis, A business review platform where users find nearby businesses, restaurants, and clinics based on top reviews.
+- **Android Development:** Yelp Addis, A business review platform where users find nearby businesses, restaurants, and clinics based on top reviews using native java.
 - **Web Backends:** Secure web applications with Laravel and Django.
-- **Network Security:** Penetration testing, webapp & android app pentesting
 
 ---
 
 ## 🌱 What I'm Learning
 - **Flutter Development:** Expanding my mobile development skills.
 - **Hugging Face Models:** Exploring AI-powered projects.
+- **Network Security:** Penetration testing, webapp & android app pentesting
 
 ---
 
