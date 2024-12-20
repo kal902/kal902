@@ -6,49 +6,49 @@ I'm a passionate Full-Stack Developer specializing in Android Development, Web B
 
 Languages:
 
-Java (Android)
-
-PHP (Laravel, Slim Framework)
-
-Python (Django, Flask)
-
-JavaScript (Basic)
+  Java (Android)
+  
+  PHP (Laravel, Slim Framework)
+  
+  Python (Django, Flask)
+  
+  JavaScript (Basic)
 
 Frameworks & Libraries:
 
-Android SDK
-
-Laravel
-
-Flask & Django
-
-Scapy (Networking) etc...
+  Android SDK
+  
+  Laravel
+  
+  Flask & Django
+  
+  Scapy (Networking) etc...
 
 Databases:
 
-SQLite
-
-MySQL
+  SQLite
+  
+  MySQL
 
 Tools & Platforms:
 
-Visual Studio Code
-
-Android Studio
-
-Kali Linux (WSL)
-
-PythonAnywhere
-
-Git & GitHub
+  Visual Studio Code
+  
+  Android Studio
+  
+  Kali Linux (WSL)
+  
+  PythonAnywhere
+  
+  Git & GitHub
 
 APIs & Integrations:
 
-PayPal Payment Integration
-
-REST APIs
-
-Telegram Bot API
+  PayPal Payment Integration
+  
+  REST APIs
+  
+  Telegram Bot API
 
 🚀 What I'm Currently Working On
 
